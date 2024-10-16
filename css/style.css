@@ -1,0 +1,30 @@
+body {
+    margin: 0 auto;
+    font-size: 16px;
+}
+
+section {
+    max-width: 1140px;
+    padding: 5% 30%;
+    background-color: lightgray;
+}
+
+.container {
+    padding: 8%;
+    text-align: left;
+    border: 1px solid gray;
+    box-shadow: 2px 2px 5px grey;
+    border-radius: 10%;
+    background-color: white;
+}
+
+.song-header {
+    line-height: .8;
+}
+
+.song-header h3 {
+    font-style: italic;
+    font-weight: 300;
+}
+
+
